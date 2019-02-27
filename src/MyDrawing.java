@@ -4,6 +4,13 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 
+/**
+ * @author Parker Damon
+ * @author Ryan Marsala
+ * 
+ * don't think we actually edited this part
+ *
+ */
 public class MyDrawing extends JPanel {
 	private Cat cat;
 	public MyDrawing() 
